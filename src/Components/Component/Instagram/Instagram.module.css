@@ -1,0 +1,32 @@
+.jump {
+
+    background: url(../../Img/instagram.png) no-repeat fixed bottom;
+    background-size: cover;
+    position: relative;
+    padding: 100px;
+}
+
+@media only screen and (max-width: 768px) {
+
+    .jump {
+
+        background: url(../../Img/instagram.png) no-repeat fixed bottom;
+        background-size: cover;
+        position: relative;
+        padding: 30px;
+    }
+
+
+}
+
+@media only screen and (max-width: 576px) {
+
+    .jump {
+
+        background: url(../../Img/instagram.png) no-repeat fixed bottom;
+        background-size: cover;
+        position: relative;
+        padding: 20px;
+    }
+  
+}
